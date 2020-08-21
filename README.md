@@ -35,6 +35,19 @@ Parent = mother, father
 Child = daughter, son, stepdaughter, stepson
 Some children travelled only with a nanny, therefore parch=0 for them.
 
-Some graphical analysis:
+**Algorithm result:**
+
+![Alt Text](https://github.com/lxy000719/Kaggle-Titanic-Competition/blob/master/Titanic/image/3.png)
+
+**Some graphical analysis:**
+
+![Alt Text](https://github.com/lxy000719/Kaggle-Titanic-Competition/blob/master/Titanic/image/1.png)
+
+![Alt Text](https://github.com/lxy000719/Kaggle-Titanic-Competition/blob/master/Titanic/image/2.png)
+
+
+
+
+
 
 
